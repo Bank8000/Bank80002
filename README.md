@@ -14,6 +14,6 @@ sudo pip3 install thrift==0.11.0
 sudo pip3 install tweepy
 sudo pip3 install wikipedia
 sudo apt-get install git
-git clone https://github.com/Bank/Bank2
-cd Bank2
+git clone https://github.com/Bank8000/Bank80002
+cd Bankdna
 python3 bank.py
